@@ -1,0 +1,20 @@
+name: nlp
+channels:
+  - defaults
+dependencies:
+  - pyface
+  - jupyter
+  - joblib
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - opencv
+  - scipy
+  - vega_datasets
+  - statsmodels
+  - spacy
+  - numpy
+  - spyder
+  - flake8
+prefix: /anaconda2/envs/nlp
+
