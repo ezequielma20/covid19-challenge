@@ -45,11 +45,10 @@ How to prepare my environment to start to collaborate ??
   ```
   
   * Export the environmen if you add a new library
-    ```bash
+  ```bash
   conda env export -n nlp --from-history > environment.yml
   ```
   
-
-# References
+# Referencies
 
 * https://spacy.io/usage/models
