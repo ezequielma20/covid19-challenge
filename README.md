@@ -43,4 +43,13 @@ How to prepare my environment to start to collaborate ??
   ```bash
   conda activate nlp
   ```
+  
+  * Export the environmen if you add a new library
+    ```bash
+  conda env export -n nlp --from-history > environment.yml
+  ```
+  
 
+# References
+
+* https://spacy.io/usage/models
